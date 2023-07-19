@@ -1,14 +1,14 @@
 [
    {
-    "versionCode": 4,
-    "versionName": "1.0.2",
+    "versionCode": 5,
+    "versionName": "1.0.3",
     "packageName": "com.hoheiya.appupdater",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_updater.png",
     "name": "应用更新",
 	"unitType": "TV/PHONE",
     "apkSize": "8.97M",
-    "desc": "助力应用更新下载，发现优质应用\n内容更新：适配Android 13",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/App_Updater_v1.0.2.apk"
+    "desc": "助力应用更新下载，发现优质应用\n内容更新：新增分类",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/App_Updater_v1.0.3.apk"
   },
   {
     "versionCode": 1,
@@ -134,7 +134,7 @@
   {
     "versionCode": 82948,
     "versionName": "4.4.30",
-    "packageName": "com.whatsbug.litiaotiao",
+    "packageName": "org.zwanoo.android.speedtest",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_speedtest.png",
     "name": "SpeedTest",
     "unitType": "PHONE",
