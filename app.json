@@ -1,14 +1,14 @@
 [
    {
-    "versionCode": 6,
-    "versionName": "1.0.3",
+    "versionCode": 7,
+    "versionName": "1.0.4",
     "packageName": "com.hoheiya.appupdater",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_updater.png",
     "name": "应用更新",
 	"unitType": "TV/PHONE",
     "apkSize": "8.97M",
     "desc": "助力应用更新下载，发现优质应用\n内容更新：新增分类",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/App_Updater_v1.0.3.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/AppUpdater/releases/download/1.0.4/App_Updater_v1.0.4.apk"
   },
   {
     "versionCode": 1,
