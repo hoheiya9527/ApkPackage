@@ -12,14 +12,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "20230716-2022",
+    "versionName": "20230721-2159",
     "packageName": "com.github.tvbox.osc",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_tvbox.png",
     "name": "TvBox",
 	"unitType": "TV",
-    "apkSize": "13.1M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：修正豆瓣图片加载失败问题",
-    "downloadUrl": "https://ghproxy.com/https://github.com/o0HalfLife0o/TVBoxOSC/releases/download/20230716-2022/TVBox_q215613905_20230716-2022.apk"
+    "apkSize": "14.3M",
+    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：支持荐片、ftp视频、电驴ed2k，ijk配置优化",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0725/TVBox_q215613905_20230721-2159.apk"
   },
   {
     "versionCode": 101,
