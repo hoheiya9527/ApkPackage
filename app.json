@@ -66,15 +66,15 @@
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/dangbeimarket_4.4.2_294_yunji.apk"
   },
     {
-    "versionCode": 20230619,
-    "versionName": "1.1.2",
+    "versionCode": 20230725,
+    "versionName": "1.2.3",
     "packageName": "pro.easybox.open",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_easybox.png",
     "name": "EasyBox",
     "unitType": "PHONE",
-    "apkSize": "39.2M",
-    "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/easybox_112_230619_sign.apk"
+    "apkSize": "43.1M",
+    "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用\n更新内容：直播界面调整，EXO升级，支持荐片及本地订阅",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0725/easybox_123_230725_sign.apk"
   },
   {
     "versionCode": 97783583,
