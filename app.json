@@ -12,14 +12,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "20230721-2159",
+    "versionName": "20230725-2313",
     "packageName": "com.github.tvbox.osc",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_tvbox.png",
     "name": "TvBox",
 	"unitType": "TV",
     "apkSize": "14.3M",
     "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：支持荐片、ftp视频、电驴ed2k，ijk配置优化",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0725/TVBox_q215613905_20230721-2159.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0726/TVBox_q215613905_20230725-2313.apk"
   },
   {
     "versionCode": 101,
@@ -66,15 +66,15 @@
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/dangbeimarket_4.4.2_294_yunji.apk"
   },
     {
-    "versionCode": 20230725,
+    "versionCode": 20230726,
     "versionName": "1.2.3",
     "packageName": "pro.easybox.open",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_easybox.png",
     "name": "EasyBox",
     "unitType": "PHONE",
     "apkSize": "43.1M",
-    "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用\n更新内容：直播界面调整，EXO升级，支持荐片及本地订阅",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0725/easybox_123_230725_sign.apk"
+    "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用\n更新内容：直播界面调整，EXO升级，支持荐片及本地订阅，设置项进行阿里云盘token获取",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0726/EasyBox_123_230726_sign.apk"
   },
   {
     "versionCode": 97783583,
