@@ -12,14 +12,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "20230805-1404",
+    "versionName": "20230805-2122",
     "packageName": "com.github.tvbox.osc",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_tvbox.png",
     "name": "TvBox",
 	"unitType": "TV",
     "apkSize": "14.3M",
     "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：磁力、图片、闪退等问题修正",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230805/TVBox_q215613905_20230805-1404.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230805/TVBox_q215613905_20230805-2122.apk"
   },
   {
     "versionCode": 101,
