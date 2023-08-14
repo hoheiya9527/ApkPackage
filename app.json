@@ -18,19 +18,19 @@
     "name": "TvBox",
 	"unitType": "TV",
     "apkSize": "14.5M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：问题修正",
+    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：已知问题修正",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230805/TVBox_q215613905_20230812-0016.apk"
   },
   {
-    "versionCode": 101,
-    "versionName": "1.4.0",
+    "versionCode": 105,
+    "versionName": "1.4.2",
     "packageName": "com.xx.blbl",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_bbll.png",
     "name": "BBLL",
 	"unitType": "TV",
-    "apkSize": "6.57M",
-    "desc": "TV端哔哩哔哩第三方客户端",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0717/BLBL_release_v1.4.0.apk"
+    "apkSize": "6.89M",
+    "desc": "TV端哔哩哔哩第三方客户端\n更新内容：搜索优化，加载及播放调整",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230805/BLBL_release_v1.4.2.apk"
   },
   {
     "versionCode": 1730300,
