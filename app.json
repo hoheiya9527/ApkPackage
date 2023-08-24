@@ -12,14 +12,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "20230812-0016",
+    "versionName": "20230823-1758",
     "packageName": "com.github.tvbox.osc",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_tvbox.png",
     "name": "TvBox",
 	"unitType": "TV",
     "apkSize": "14.5M",
     "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：已知问题修正",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230805/TVBox_q215613905_20230812-0016.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/TVBox_q215613905_20230823-1758.apk"
   },
   {
     "versionCode": 105,
@@ -106,7 +106,7 @@
     "name": "Share",
     "unitType": "PHONE",
     "apkSize": "17.5M",
-    "desc": "新浪微博第三方客户端，简约",
+    "desc": "新浪微博第三方客户端，简约。[终版]",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Share.apk"
   },
   {
@@ -121,15 +121,15 @@
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Fake_Location.apk"
   },
   {
-    "versionCode": 20,
-    "versionName": "派大星1.75",
-    "packageName": "com.whatsbug.litiaotiao",
+    "versionCode": 3,
+    "versionName": "派大星2.2",
+    "packageName": "hello.litiaotiao.app",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_litt.png",
     "name": "李跳跳",
     "unitType": "PHONE",
-    "apkSize": "1.7M",
-    "desc": "辅助工具，可用于自动跳过APP的首屏广告",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/LiTT.apk"
+    "apkSize": "3.05M",
+    "desc": "辅助工具，可用于自动跳过APP的首屏广告。[终版]",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/LTT_2.2.apk"
   },
   {
     "versionCode": 82948,
