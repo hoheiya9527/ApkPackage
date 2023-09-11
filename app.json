@@ -29,7 +29,7 @@
     "name": "BBLL",
 	"unitType": "TV",
     "apkSize": "6.9M",
-    "desc": "TV端哔哩哔哩第三方客户端\n更新内容：搜索优化，加载及播放调整",
+    "desc": "TV端哔哩哔哩第三方客户端\n更新内容：修正登录问题",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/BLBL_release_v1.4.5.apk"
   },
   {
