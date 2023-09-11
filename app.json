@@ -22,15 +22,15 @@
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/TVBox_q215613905_20230823-1758.apk"
   },
   {
-    "versionCode": 105,
-    "versionName": "1.4.2",
+    "versionCode": 112,
+    "versionName": "1.4.5",
     "packageName": "com.xx.blbl",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_bbll.png",
     "name": "BBLL",
 	"unitType": "TV",
-    "apkSize": "6.89M",
+    "apkSize": "6.9M",
     "desc": "TV端哔哩哔哩第三方客户端\n更新内容：搜索优化，加载及播放调整",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230805/BLBL_release_v1.4.2.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/BLBL_release_v1.4.5.apk"
   },
   {
     "versionCode": 1730300,
