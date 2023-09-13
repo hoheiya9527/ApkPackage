@@ -1,25 +1,25 @@
 [
    {
-    "versionCode": 7,
-    "versionName": "1.0.4",
+    "versionCode": 8,
+    "versionName": "1.0.5",
     "packageName": "com.hoheiya.appupdater",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_updater.png",
     "name": "应用更新",
 	"unitType": "TV/PHONE",
     "apkSize": "8.97M",
     "desc": "助力应用更新下载，发现优质应用\n内容更新：新增分类",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/AppUpdater/releases/download/1.0.4/App_Updater_v1.0.4.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/AppUpdater/releases/download/1.0.5/App_Updater_v1.0.5.apk"
   },
   {
     "versionCode": 1,
-    "versionName": "20230823-1758",
+    "versionName": "20230902-0114",
     "packageName": "com.github.tvbox.osc",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_tvbox.png",
     "name": "TvBox",
 	"unitType": "TV",
     "apkSize": "14.5M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：已知问题修正",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/TVBox_q215613905_20230823-1758.apk"
+    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：已知问题修正，图片加载优化",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/TVBox_q215613905_20230902-0114"
   },
   {
     "versionCode": 112,
