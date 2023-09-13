@@ -7,8 +7,9 @@
     "name": "应用更新",
 	"unitType": "TV/PHONE",
     "apkSize": "8.97M",
-    "desc": "助力应用更新下载，发现优质应用\n内容更新：新增分类",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/AppUpdater/releases/download/1.0.5/App_Updater_v1.0.5.apk"
+    "desc": "助力应用更新下载，发现优质应用\n内容更新：支持长按进行复制应用订阅源等内容",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/AppUpdater/releases/download/1.0.5/App_Updater_v1.0.5.apk",
+	"clipboard":""
   },
   {
     "versionCode": 1,
@@ -19,7 +20,8 @@
 	"unitType": "TV",
     "apkSize": "14.7M",
     "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：已知问题修正，图片加载优化",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/TVBox_q215613905_20230902-0114"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/TVBox_q215613905_20230902-0114",
+	"clipboard":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
     "versionCode": 112,
@@ -30,7 +32,8 @@
 	"unitType": "TV",
     "apkSize": "6.9M",
     "desc": "TV端哔哩哔哩第三方客户端\n更新内容：修正登录问题",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/BLBL_release_v1.4.5.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/BLBL_release_v1.4.5.apk",
+	"clipboard":""
   },
   {
     "versionCode": 1730300,
@@ -41,7 +44,8 @@
 	"unitType": "TV",
     "apkSize": "9.26M",
     "desc": "TV端Spotify音乐软件",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/spotify-for-android-tv-1-73-3.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/spotify-for-android-tv-1-73-3.apk",
+	"clipboard":""
   },
   {
     "versionCode": 34,
@@ -52,7 +56,8 @@
 	"unitType": "TV",
     "apkSize": "10.2M",
     "desc": "TV端阿里云盘第三方客户端，支持原画播放",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/XiaoBai-v1.6.1-armeabi-v7a.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/XiaoBai-v1.6.1-armeabi-v7a.apk",
+	"clipboard":""
   },
   {
     "versionCode": 294,
@@ -63,7 +68,8 @@
 	"unitType": "TV",
     "apkSize": "11.4M",
     "desc": "TV端应用市场",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/dangbeimarket_4.4.2_294_yunji.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/dangbeimarket_4.4.2_294_yunji.apk",
+	"clipboard":""
   },
     {
     "versionCode": 20230726,
@@ -74,7 +80,8 @@
     "unitType": "PHONE",
     "apkSize": "43.1M",
     "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用\n更新内容：直播界面调整，EXO升级，支持荐片及本地订阅，设置项进行阿里云盘token获取",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0726/EasyBox_123_230726_sign.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0726/EasyBox_123_230726_sign.apk",
+	"clipboard":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"
   },
   {
     "versionCode": 97783583,
@@ -85,7 +92,8 @@
     "unitType": "PHONE",
     "apkSize": "57.5M",
     "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Spotify.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Spotify.apk",
+	"clipboard":""
   },
   {
     "versionCode": 205012,
@@ -96,7 +104,8 @@
     "unitType": "PHONE",
     "apkSize": "10.2M",
     "desc": "代理工具，需配置订阅源使用",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/cfa-2.5.12-premium-arm64-v8a-release.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/cfa-2.5.12-premium-arm64-v8a-release.apk",
+	"clipboard":"https://tt.vg/freeclash"
   },
   {
     "versionCode": 925,
@@ -107,7 +116,8 @@
     "unitType": "PHONE",
     "apkSize": "17.5M",
     "desc": "新浪微博第三方客户端，简约。[终版]",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Share.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Share.apk",
+	"clipboard":""
   },
   {
     "versionCode": 1581,
@@ -118,7 +128,8 @@
     "unitType": "PHONE",
     "apkSize": "21.1M",
     "desc": "定位模拟",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Fake_Location.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Fake_Location.apk",
+	"clipboard":""
   },
   {
     "versionCode": 3,
@@ -129,7 +140,8 @@
     "unitType": "PHONE",
     "apkSize": "3.05M",
     "desc": "辅助工具，可用于自动跳过APP的首屏广告。[终版]",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/LTT_2.2.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/LTT_2.2.apk",
+	"clipboard":""
   },
   {
     "versionCode": 82948,
@@ -140,6 +152,7 @@
     "unitType": "PHONE",
     "apkSize": "22.3M",
     "desc": "网络测速软件",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Speedtest.apk"
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Speedtest.apk",
+	"clipboard":""
   }
 ]
