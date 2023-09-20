@@ -84,15 +84,15 @@
 	"clipboard":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"
   },
   {
-    "versionCode": 97783583,
-    "versionName": "8.8.14.553",
+    "versionCode": 105123468,
+    "versionName": "8.8.70.532",
     "packageName": "com.spotify.music",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
-    "apkSize": "57.5M",
-    "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Spotify.apk",
+    "apkSize": "63.6M",
+    "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效\n更新内容：已知问题修正",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202309/Spotify.v8.8.70.532.Premium.arm8.apk"
 	"clipboard":""
   },
   {
