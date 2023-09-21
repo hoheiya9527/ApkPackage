@@ -36,15 +36,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 1730300,
-    "versionName": "1.73.3",
+    "versionCode": 1760100,
+    "versionName": "1.76.1",
     "packageName": "com.spotify.tv.android",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_spotify_tv.png",
     "name": "Spotify",
 	"unitType": "TV",
-    "apkSize": "9.26M",
-    "desc": "TV端Spotify音乐软件",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/spotify-for-android-tv-1-73-3.apk",
+    "apkSize": "9.11M",
+    "desc": "TV端Spotify音乐软件\n内容更新：播放优化",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202309/Spotify_TV_v1.76.1_1760100.apk",
 	"clipboard":""
   },
   {
