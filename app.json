@@ -7,7 +7,7 @@
     "name": "应用更新",
 	"unitType": "TV/PHONE",
     "apkSize": "8.97M",
-    "desc": "助力应用更新下载，发现优质应用\n内容更新：支持长按进行复制应用订阅源等内容",
+    "desc": "助力应用更新下载，发现优质应用\n更新：支持长按进行复制应用订阅源等内容",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/AppUpdater/releases/download/1.0.5/App_Updater_v1.0.5.apk",
 	"clipboard":""
   },
@@ -19,7 +19,7 @@
     "name": "TvBox",
 	"unitType": "TV",
     "apkSize": "14.7M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n内容更新：已知问题修正，图片加载优化",
+    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n更新：已知问题修正，图片加载优化",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/TVBox_q215613905_20230902-0114",
 	"clipboard":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
@@ -31,7 +31,7 @@
     "name": "BBLL",
 	"unitType": "TV",
     "apkSize": "6.9M",
-    "desc": "TV端哔哩哔哩第三方客户端\n更新内容：修正登录问题",
+    "desc": "TV端哔哩哔哩第三方客户端\n更新：修正登录问题",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/BLBL_release_v1.4.5.apk",
 	"clipboard":""
   },
@@ -43,7 +43,7 @@
     "name": "Spotify",
 	"unitType": "TV",
     "apkSize": "9.11M",
-    "desc": "TV端Spotify音乐软件\n内容更新：播放优化",
+    "desc": "TV端Spotify音乐软件\n更新：播放优化",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202309/Spotify_TV_v1.76.1_1760100.apk",
 	"clipboard":""
   },
@@ -79,20 +79,20 @@
     "name": "EasyBox",
     "unitType": "PHONE",
     "apkSize": "43.1M",
-    "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用\n更新内容：直播界面调整，EXO升级，支持荐片及本地订阅，设置项进行阿里云盘token获取",
+    "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用\n更新内容：直播界面调整，支持荐片，设置项直接获取保存阿里云盘token",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0726/EasyBox_123_230726_sign.apk",
 	"clipboard":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"
   },
   {
-    "versionCode": 105123468,
-    "versionName": "8.8.70.532",
+    "versionCode": 105386284,
+    "versionName": "8.8.72.628",
     "packageName": "com.spotify.music",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
     "apkSize": "63.6M",
-    "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效\n更新内容：已知问题修正",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202309/Spotify.v8.8.70.532.Premium.arm8.apk",
+    "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效\n更新：支持动态列表、hey spotify，修正已知问题",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202309/Spotify.v8.8.72.628.Premium.arm8.apk",
 	"clipboard":""
   },
   {
@@ -115,7 +115,7 @@
     "name": "Share",
     "unitType": "PHONE",
     "apkSize": "17.5M",
-    "desc": "新浪微博第三方客户端，简约。[终版]",
+    "desc": "新浪微博第三方客户端，简约。\n[终版]",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Share.apk",
 	"clipboard":""
   },
@@ -127,7 +127,7 @@
     "name": "Fake Location",
     "unitType": "PHONE",
     "apkSize": "21.1M",
-    "desc": "定位模拟",
+    "desc": "Fake Location",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Fake_Location.apk",
 	"clipboard":""
   },
@@ -139,7 +139,7 @@
     "name": "李跳跳",
     "unitType": "PHONE",
     "apkSize": "3.05M",
-    "desc": "辅助工具，可用于自动跳过APP的首屏广告。[终版]",
+    "desc": "辅助工具，可用于自动跳过APP的首屏广告。\n[终版]",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/LTT_2.2.apk",
 	"clipboard":""
   },
