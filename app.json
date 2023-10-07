@@ -84,15 +84,15 @@
 	"clipboard":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"
   },
   {
-    "versionCode": 105386284,
-    "versionName": "8.8.72.628",
+    "versionCode": 105910845,
+    "versionName": "8.8.76.667",
     "packageName": "com.spotify.music",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
-    "apkSize": "63.6M",
-    "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效\n更新：支持动态列表、hey spotify，修正已知问题",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202309/Spotify.v8.8.72.628.Premium.arm8.apk",
+    "apkSize": "76M",
+    "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202309/Spotify.v8.8.76.667.apk",
 	"clipboard":""
   },
   {
@@ -105,7 +105,7 @@
     "apkSize": "10.2M",
     "desc": "代理工具，需配置订阅源使用",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/cfa-2.5.12-premium-arm64-v8a-release.apk",
-	"clipboard":"https://sub.nicevpn.top/Clash.yaml"
+	"clipboard":"https://tt.vg/freeclash"
   },
   {
     "versionCode": 925,
