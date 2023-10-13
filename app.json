@@ -145,7 +145,7 @@
   },
   {
     "versionCode": 390016,
-    "versionName": "4.0.0-alpha.16",
+    "versionName": "4.0.0-alpha.16+ae92c10",
     "packageName": "com.huanchengfly.tieba.post",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_tieba.png",
     "name": "贴吧 Lite",
