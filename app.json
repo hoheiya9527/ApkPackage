@@ -24,15 +24,15 @@
 	"clipboard":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
-    "versionCode": 112,
-    "versionName": "1.4.5",
+    "versionCode": 116,
+    "versionName": "1.4.6",
     "packageName": "com.xx.blbl",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_bbll.png",
     "name": "BBLL",
 	"unitType": "TV",
     "apkSize": "6.9M",
-    "desc": "TV端哔哩哔哩第三方客户端\n更新：修正登录问题",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/BLBL_release_v1.4.5.apk",
+    "desc": "TV端哔哩哔哩第三方客户端",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/BLBL_release_v1.4.6.apk",
 	"clipboard":""
   },
   {
@@ -48,15 +48,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 34,
-    "versionName": "v1.6.1",
+    "versionCode": 41,
+    "versionName": "v1.6.4.2",
     "packageName": "com.amazing.cloudisk.tv",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_xiaobai.png",
     "name": "小白云盘TV",
 	"unitType": "TV",
-    "apkSize": "10.2M",
+    "apkSize": "52M",
     "desc": "TV端阿里云盘第三方客户端，支持原画播放",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/XiaoBai-v1.6.1-armeabi-v7a.apk",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/XiaoBaiYun_TV-v1.6.4.2.apk",
 	"clipboard":""
   },
   {
@@ -141,6 +141,18 @@
     "apkSize": "3.05M",
     "desc": "辅助工具，可用于自动跳过APP的首屏广告。\n[终版]",
     "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/LTT_2.2.apk",
+	"clipboard":""
+  },
+  {
+    "versionCode": 390016,
+    "versionName": "4.0.0-alpha.16",
+    "packageName": "com.huanchengfly.tieba.post",
+    "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_tieba.png",
+    "name": "贴吧 Lite",
+    "unitType": "PHONE",
+    "apkSize": "10.6M",
+    "desc": "百度贴吧第三方客户端，无广。",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/lite_Ver_4_0_0_alpha_16.apk",
 	"clipboard":""
   },
   {
