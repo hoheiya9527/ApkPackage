@@ -84,6 +84,18 @@
 	"clipboard":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"
   },
   {
+    "versionCode": 62,
+    "versionName": "1.1.1",
+    "packageName": "cn.toside.music.mobile",
+    "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_lx_music.png",
+    "name": "LX Music",
+    "unitType": "PHONE",
+    "apkSize": "27M",
+    "desc": "洛雪音乐（LX Music），国内音乐平台聚合，免费在线音乐聆听",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/lx-music-mobile-v1.1.1-universal.apk",
+	"clipboard":""
+  },
+  {
     "versionCode": 105910845,
     "versionName": "8.8.76.667",
     "packageName": "com.spotify.music",
