@@ -24,15 +24,15 @@
 	"clipboard":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
-    "versionCode": 116,
-    "versionName": "1.4.6",
+    "versionCode": 118,
+    "versionName": "1.4.7",
     "packageName": "com.xx.blbl",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_bbll.png",
     "name": "BBLL",
 	"unitType": "TV",
     "apkSize": "6.9M",
     "desc": "TV端哔哩哔哩第三方客户端",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/BLBL_release_v1.4.6.apk",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/BLBL_release_v1.4.7.apk",
 	"clipboard":""
   },
   {
@@ -72,15 +72,15 @@
 	"clipboard":""
   },
     {
-    "versionCode": 20230726,
-    "versionName": "1.2.3",
+    "versionCode": 20231028,
+    "versionName": "1.3.0",
     "packageName": "pro.easybox.open",
     "icon": "https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/ApkPackage/main/icon/icon_easybox.png",
     "name": "EasyBox",
     "unitType": "PHONE",
     "apkSize": "43.1M",
     "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用\n更新内容：直播界面调整，支持荐片，设置项直接获取保存阿里云盘token",
-    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0726/EasyBox_123_230726_sign.apk",
+    "downloadUrl": "https://ghproxy.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/EasyBox_231028_130_sign.apk",
 	"clipboard":"https://ghproxy.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"
   },
   {
