@@ -84,15 +84,27 @@
 	"clipboard":"https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/src.json"
   },
   {
-    "versionCode": 4140,
-    "versionName": "4.1.4",
-    "packageName": "com.mylrc.mymusic",
-    "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_mylrc.png",
-    "name": "歌词适配",
+    "versionCode": 90,
+    "versionName": "3.5.8",
+    "packageName": "com.feiyu.morin",
+    "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_morin.png",
+    "name": "魔音",
     "unitType": "PHONE",
-    "apkSize": "2.3M",
-    "desc": "支持歌词匹配，在线歌曲试听，无损音质下载等，低调使用",
-    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202312/mylrc_v4.1.4.apk",
+    "apkSize": "27.4M",
+    "desc": "国内在线音乐平台聚合APP，集搜索、试听、下载功能，二次修改版本，有广",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202312/Morin_3.5.8.apk",
+	"clipboard":""
+  },
+   {
+    "versionCode": 7,
+    "versionName": "1.0.7",
+    "packageName": "com.music.moment",
+    "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_music_moment.png",
+    "name": "音乐时刻",
+    "unitType": "PHONE",
+    "apkSize": "8.66M",
+    "desc": "简约的股票在线音乐聚合APP，支持歌曲试听及无损音质下载",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202312/MusicMoment_1.0.7.apk",
 	"clipboard":""
   },
   {
