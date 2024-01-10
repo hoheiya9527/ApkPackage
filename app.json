@@ -24,15 +24,15 @@
 	"clipboard":"https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/src.json"	
   },
   {
-    "versionCode": 118,
-    "versionName": "1.4.7",
+    "versionCode": 122,
+    "versionName": "1.4.9",
     "packageName": "com.xx.blbl",
     "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_bbll.png",
     "name": "BBLL",
 	"unitType": "TV",
     "apkSize": "6.9M",
     "desc": "TV端哔哩哔哩第三方客户端",
-    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/BLBL_release_v1.4.7.apk",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/BLBL_release_v1.4.9.apk",
 	"clipboard":""
   },
   {
@@ -71,7 +71,19 @@
     "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/dangbeimarket_4.4.2_294_yunji.apk",
 	"clipboard":""
   },
-    {
+  {
+    "versionCode": 198,
+    "versionName": "1.98",
+    "packageName": "com.finalwire.aida64",
+    "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_aida64.png",
+    "name": "AIDA64",
+	"unitType": "TV",
+    "apkSize": "5.7M",
+    "desc": "TV端硬件信息诊断工具",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/AIDA64_1.98.apk",
+	"clipboard":""
+  },
+  {
     "versionCode": 20231028,
     "versionName": "1.3.0",
     "packageName": "pro.easybox.open",
@@ -79,7 +91,7 @@
     "name": "EasyBox",
     "unitType": "PHONE",
     "apkSize": "43.1M",
-    "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用\n更新内容：直播界面调整，支持荐片，设置项直接获取保存阿里云盘token",
+    "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用",
     "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/EasyBox_231028_130_sign.apk",
 	"clipboard":"https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/src.json"
   },
@@ -108,15 +120,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 108269511,
-    "versionName": "8.8.94.577",
+    "versionCode": 108530164,
+    "versionName": "8.8.96.364",
     "packageName": "com.spotify.music",
     "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
     "apkSize": "76M",
     "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202312/Spotify.v8.8.94.577.Premium.apk",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/Spotify-v8.8.96.364.Premium.apk",
 	"clipboard":""
   },
   {
