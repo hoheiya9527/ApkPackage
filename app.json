@@ -36,15 +36,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 1760100,
-    "versionName": "1.76.1",
+    "versionCode": 1800200,
+    "versionName": "1.80.2",
     "packageName": "com.spotify.tv.android",
     "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_spotify_tv.png",
     "name": "Spotify",
 	"unitType": "TV",
     "apkSize": "9.11M",
     "desc": "TV端Spotify音乐软件\n更新：播放优化",
-    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202309/Spotify_TV_v1.76.1_1760100.apk",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/Spotify_TV_v1.80.2.apk",
 	"clipboard":""
   },
   {
