@@ -1,14 +1,14 @@
 [
    {
-    "versionCode": 12,
-    "versionName": "1.0.9",
+    "versionCode": 13,
+    "versionName": "1.1.0",
     "packageName": "com.hoheiya.appupdater",
     "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_updater.png",
     "name": "应用更新",
 	"unitType": "TV/PHONE",
     "apkSize": "8.14M",
     "desc": "助力应用更新下载，发现优质应用\n更新：支持长按进行复制应用订阅源等内容",
-    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/AppUpdater/releases/download/1.0.9/App_Updater_v1.0.9.apk",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/AppUpdater/releases/download/1.1.0/App_Updater_v1.1.0.apk",
 	"clipboard":""
   },
   {
@@ -105,18 +105,6 @@
     "apkSize": "27.4M",
     "desc": "国内在线音乐平台聚合APP，集搜索、试听、下载功能，二次修改版本，有广",
     "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202312/Morin_3.5.8.apk",
-	"clipboard":""
-  },
-   {
-    "versionCode": 7,
-    "versionName": "1.0.7",
-    "packageName": "com.music.moment",
-    "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_music_moment.png",
-    "name": "音乐时刻",
-    "unitType": "PHONE",
-    "apkSize": "8.66M",
-    "desc": "简约的国内在线音乐聚合APP，支持歌曲试听及无损音质下载",
-    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202312/MusicMoment_1.0.7.apk",
 	"clipboard":""
   },
   {
