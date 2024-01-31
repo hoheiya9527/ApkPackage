@@ -86,7 +86,7 @@
    {
     "versionCode": 1,
     "versionName": "1.0.0.20240131",
-    "packageName": "com.github.tvbox.osc",
+    "packageName": "com.github.tvbox.osc.p",
     "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_tvbox.png",
     "name": "MBox",
 	"unitType": "PHONE",
