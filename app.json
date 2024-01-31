@@ -83,6 +83,18 @@
     "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/AIDA64_1.98.apk",
 	"clipboard":""
   },
+   {
+    "versionCode": 1,
+    "versionName": "1.0.0.20240131",
+    "packageName": "com.github.tvbox.osc",
+    "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_tvbox.png",
+    "name": "MBox",
+	"unitType": "PHONE",
+    "apkSize": "35.5M",
+    "desc": "竖屏版Tvbox，自修改版本\n更新内容：预置配置信息",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/MBox_v1.0.0.20240131_release.apk",
+	"clipboard":"https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/src.json"	
+  },
   {
     "versionCode": 20231028,
     "versionName": "1.3.0",
