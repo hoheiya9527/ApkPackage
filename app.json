@@ -85,14 +85,14 @@
   },
    {
     "versionCode": 1,
-    "versionName": "1.0.0.20240201",
+    "versionName": "1.0.1.20240201",
     "packageName": "com.github.tvbox.osc.p",
     "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_tvbox.png",
     "name": "MBox",
 	"unitType": "PHONE",
     "apkSize": "35.5M",
     "desc": "竖屏版Tvbox，自修改版本\n更新内容：预置配置信息",
-    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/MBox_v1.0.0.20240201_release.apk",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/MBox_v1.0.1.20240201_release.apk",
 	"clipboard":"https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/src.json"	
   },
   {
