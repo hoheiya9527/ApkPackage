@@ -21,7 +21,7 @@
     "apkSize": "18.5M",
     "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n自修改版本，更新安装提示冲突时请先卸载已安装版本。\n更新内容：预置配置信息，新增字幕透明度调整支持",
     "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/TVBox_q215613905_mod_hoheiya_1.0.5.20240201.apk",
-	"clipboard":"https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/src.json"	
+	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
     "versionCode": 122,
@@ -93,7 +93,7 @@
     "apkSize": "43.5M",
     "desc": "竖屏版Tvbox，自修改版本\n更新内容：预置配置信息",
     "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/MBox_mod_hoheiya_v1.0.3.20240201.apk",
-	"clipboard":"https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/src.json"	
+	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
     "versionCode": 20231028,
@@ -105,7 +105,7 @@
     "apkSize": "43.1M",
     "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用",
     "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/EasyBox_231028_130_sign.apk",
-	"clipboard":"https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/src.json"
+	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"
   },
   {
     "versionCode": 90,
