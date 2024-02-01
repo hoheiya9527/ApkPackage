@@ -8,7 +8,7 @@
 	"unitType": "TV/PHONE",
     "apkSize": "8.14M",
     "desc": "助力应用更新下载，发现优质应用\n更新：支持长按进行复制应用订阅源等内容",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/App_Updater_v1.1.1.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/App_Updater_v1.1.1.apk",
 	"clipboard":""
   },
   {
@@ -20,7 +20,7 @@
 	"unitType": "TV",
     "apkSize": "18.5M",
     "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n自修改版本，更新安装提示冲突时请先卸载已安装版本。\n更新内容：预置配置信息，新增字幕透明度调整支持",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/TVBox_q215613905_mod_hoheiya_1.0.5.20240201.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/TVBox_q215613905_mod_hoheiya_1.0.5.20240201.apk",
 	"clipboard":"https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/src.json"	
   },
   {
@@ -32,7 +32,7 @@
 	"unitType": "TV",
     "apkSize": "6.9M",
     "desc": "TV端哔哩哔哩第三方客户端",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/BLBL_release_v1.4.9.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/BLBL_release_v1.4.9.apk",
 	"clipboard":""
   },
   {
@@ -44,7 +44,7 @@
 	"unitType": "TV",
     "apkSize": "9.11M",
     "desc": "TV端Spotify音乐软件\n可配合手机端使用获取更优体验",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/Spotify_TV_v1.80.2.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/Spotify_TV_v1.80.2.apk",
 	"clipboard":""
   },
   {
@@ -56,7 +56,7 @@
 	"unitType": "TV",
     "apkSize": "52M",
     "desc": "TV端阿里云盘第三方客户端，支持原画播放",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/XiaoBaiYun_TV-v1.6.4.2.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/XiaoBaiYun_TV-v1.6.4.2.apk",
 	"clipboard":""
   },
   {
@@ -68,7 +68,7 @@
 	"unitType": "TV",
     "apkSize": "11.4M",
     "desc": "TV端应用市场",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/dangbeimarket_4.4.2_294_yunji.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/dangbeimarket_4.4.2_294_yunji.apk",
 	"clipboard":""
   },
   {
@@ -80,7 +80,7 @@
 	"unitType": "TV",
     "apkSize": "5.7M",
     "desc": "TV端硬件信息诊断工具",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/AIDA64_1.98.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/AIDA64_1.98.apk",
 	"clipboard":""
   },
    {
@@ -92,7 +92,7 @@
 	"unitType": "PHONE",
     "apkSize": "43.5M",
     "desc": "竖屏版Tvbox，自修改版本\n更新内容：预置配置信息",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/MBox_mod_hoheiya_v1.0.3.20240201.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/MBox_mod_hoheiya_v1.0.3.20240201.apk",
 	"clipboard":"https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/src.json"	
   },
   {
@@ -104,7 +104,7 @@
     "unitType": "PHONE",
     "apkSize": "43.1M",
     "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/EasyBox_231028_130_sign.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/EasyBox_231028_130_sign.apk",
 	"clipboard":"https://cdn.jsdelivr.net/gh/hoheiya9527/TvboxSelf@main/src.json"
   },
   {
@@ -116,7 +116,7 @@
     "unitType": "PHONE",
     "apkSize": "27.4M",
     "desc": "国内在线音乐平台聚合APP，集搜索、试听、下载功能，二次修改版本，有广",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202312/Morin_3.5.8.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202312/Morin_3.5.8.apk",
 	"clipboard":""
   },
   {
@@ -128,7 +128,7 @@
     "unitType": "PHONE",
     "apkSize": "76M",
     "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/Spotify-v8.8.96.364.Premium.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/Spotify-v8.8.96.364.Premium.apk",
 	"clipboard":""
   },
   {
@@ -140,7 +140,7 @@
     "unitType": "PHONE",
     "apkSize": "10.2M",
     "desc": "代理工具，需配置订阅源使用",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/cfa-2.5.12-premium-arm64-v8a-release.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/cfa-2.5.12-premium-arm64-v8a-release.apk",
 	"clipboard":"https://tt.vg/freeclash"
   },
   {
@@ -152,7 +152,7 @@
     "unitType": "PHONE",
     "apkSize": "17.5M",
     "desc": "新浪微博第三方客户端，简约。\n[终版]",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Share.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Share.apk",
 	"clipboard":""
   },
   {
@@ -164,7 +164,7 @@
     "unitType": "PHONE",
     "apkSize": "21.1M",
     "desc": "Fake Location",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Fake_Location.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Fake_Location.apk",
 	"clipboard":""
   },
   {
@@ -176,7 +176,7 @@
     "unitType": "PHONE",
     "apkSize": "3.05M",
     "desc": "辅助工具，可用于自动跳过APP的首屏广告。\n[终版]",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/LTT_2.2.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/230824/LTT_2.2.apk",
 	"clipboard":""
   },
   {
@@ -188,7 +188,7 @@
     "unitType": "PHONE",
     "apkSize": "10.6M",
     "desc": "百度贴吧第三方客户端，无广。",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/lite_Ver_4_0_0_alpha_16.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/lite_Ver_4_0_0_alpha_16.apk",
 	"clipboard":""
   },
   {
@@ -200,7 +200,7 @@
     "unitType": "PHONE",
     "apkSize": "22.3M",
     "desc": "网络测速软件",
-    "downloadUrl": "https://gh.ddlc.top/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Speedtest.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Speedtest.apk",
 	"clipboard":""
   }
 ]
