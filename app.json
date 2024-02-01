@@ -13,14 +13,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "1.0.3.20240131",
+    "versionName": "1.0.4.20240201",
     "packageName": "com.github.tvbox.osc",
     "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_tvbox.png",
     "name": "TvBox",
 	"unitType": "TV",
     "apkSize": "18.5M",
     "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n自修改版本，更新安装提示冲突时请先卸载已安装版本。\n更新内容：预置配置信息，新增字幕透明度调整支持",
-    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/TVBox_q215613905_mod_hoheiya_1.0.3.20240131.apk",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/TVBox_q215613905_mod_hoheiya_1.0.4.20240201.apk",
 	"clipboard":"https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/src.json"	
   },
   {
@@ -85,14 +85,14 @@
   },
    {
     "versionCode": 1,
-    "versionName": "1.0.1.20240201",
+    "versionName": "1.0.2.20240201",
     "packageName": "com.github.tvbox.osc.p",
     "icon": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/blob/main/icon/icon_tvbox.png",
     "name": "MBox",
 	"unitType": "PHONE",
-    "apkSize": "35.5M",
+    "apkSize": "43.5M",
     "desc": "竖屏版Tvbox，自修改版本\n更新内容：预置配置信息",
-    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/MBox_v1.0.1.20240201_release.apk",
+    "downloadUrl": "https://github.moeyy.xyz/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/MBox_mod_hoheiya_v1.0.2.20240201.apk",
 	"clipboard":"https://github.moeyy.xyz/https://github.com/hoheiya9527/TvboxSelf/blob/main/src.json"	
   },
   {
