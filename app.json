@@ -141,7 +141,7 @@
     "apkSize": "10.2M",
     "desc": "代理工具，需配置订阅源使用",
     "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/cfa-2.5.12-premium-arm64-v8a-release.apk",
-	"clipboard":"https://tt.vg/freeclash"
+	"clipboard":"http://123.57.192.169:7777/clash/proxies"
   },
   {
     "versionCode": 925,
@@ -180,15 +180,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 390016,
-    "versionName": "4.0.0-alpha.16+ae92c10",
+    "versionCode": 390100,
+    "versionName": "4.0.0-beta.1+2885b2a",
     "packageName": "com.huanchengfly.tieba.post",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tieba.png",
     "name": "贴吧 Lite",
     "unitType": "PHONE",
-    "apkSize": "10.6M",
-    "desc": "百度贴吧第三方客户端，无广。",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/lite_Ver_4_0_0_alpha_16.apk",
+    "apkSize": "10.2M",
+    "desc": "百度贴吧第三方客户端\n[终版]。",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/TieBa_Lite4.0.0-beta.1+2885b2a.390100.apk",
 	"clipboard":""
   },
   {
