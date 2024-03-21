@@ -1,14 +1,14 @@
 [
    {
-    "versionCode": 15,
-    "versionName": "1.1.2",
+    "versionCode": 16,
+    "versionName": "1.1.3",
     "packageName": "com.hoheiya.appupdater",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_updater.png",
     "name": "应用更新",
 	"unitType": "TV/PHONE",
     "apkSize": "8.14M",
-    "desc": "助力应用更新下载，发现优质应用\n更新：支持配置动态获取",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/App_Updater_v1.1.2.apk",
+    "desc": "助力应用更新下载，发现优质应用\n修正显示错乱问题",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202403/App_Updater_v1.1.3.apk",
 	"clipboard":""
   },
   {
@@ -19,8 +19,8 @@
     "name": "TvBox",
 	"unitType": "TV",
     "apkSize": "18.5M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n自修改版本，更新安装提示冲突时请先卸载已安装版本。\n更新内容：优化启动加载速度",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/TVBox_q215613905_mod_hoheiya_1.0.6.20240202.apk",
+    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n自修改版本，更新安装提示冲突时请先卸载已安装版本。\n更新内容：过滤去除推广信息",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202403/TVBox_q215613905_mod_hoheiya_1.0.7.20240321.apk",
 	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
@@ -84,15 +84,15 @@
 	"clipboard":""
   },
    {
-    "versionCode": 1,
-    "versionName": "1.0.4.20240202",
+    "versionCode": 2,
+    "versionName": "1.0.5.20240321",
     "packageName": "com.github.tvbox.osc.p",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox.png",
     "name": "MBox",
 	"unitType": "PHONE",
     "apkSize": "41M",
-    "desc": "Mobile TvBox，竖屏版TVBOX，自修改版本\n更新内容：优化启动加载速度",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202402/MBox_mod_hoheiya_v1.0.4.20240202.apk",
+    "desc": "Mobile TvBox，竖屏版TVBOX，自修改版本\n更新内容：过滤去除推广信息",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202403/MBox_mod_hoheiya_v1.0.5.20240321.apk",
 	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
