@@ -13,13 +13,25 @@
   },
   {
     "versionCode": 1,
+    "versionName": "1.0.240407",
+    "packageName": "com.github.tvbox.osc.tk",
+    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox_tk.png",
+    "name": "TvBox-TK",
+	"unitType": "TV",
+    "apkSize": "27M",
+    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n更新内容：支持云查接口视频[原画]播放",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202403/TVBox_tk_mod_hoheiya_1.0.240407.apk",
+	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
+  },
+    {
+    "versionCode": 1,
     "versionName": "1.0.7.20240321",
     "packageName": "com.github.tvbox.osc",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox.png",
     "name": "TvBox",
 	"unitType": "TV",
     "apkSize": "18.5M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n自修改版本，更新安装提示冲突时请先卸载已安装版本。\n更新内容：过滤去除推广信息",
+    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n[已停更，建议使用TvBox-TK]",
     "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202403/TVBox_q215613905_mod_hoheiya_1.0.7.20240321.apk",
 	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
