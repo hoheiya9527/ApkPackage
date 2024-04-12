@@ -13,14 +13,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "1.0.240411",
+    "versionName": "1.0.240412",
     "packageName": "com.github.tvbox.osc.tk",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox_tk.png",
-    "name": "TvBox-TK",
+    "name": "睇TV",
 	"unitType": "TV",
     "apkSize": "28M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n更新内容：支持云查 [原画] 播放，修正直播频道信息",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202403/TVBox_tk_mod_hoheiya_1.0.240411.apk",
+    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用，改自TvBoxTK\n更新内容：支持云查 [原画] 播放，修正直播频道信息",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202403/TVBox_tk_mod_hoheiya_1.0.240412.apk",
 	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
@@ -31,7 +31,7 @@
     "name": "TvBox",
 	"unitType": "TV",
     "apkSize": "18.5M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n[已停更，建议使用TvBox-TK]",
+    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n[已停更，建议使用 睇TV]",
     "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202403/TVBox_q215613905_mod_hoheiya_1.0.7.20240321.apk",
 	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
