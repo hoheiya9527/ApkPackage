@@ -72,15 +72,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 294,
-    "versionName": "4.4.2",
+    "versionCode": 307,
+    "versionName": "5.0.4",
     "packageName": "com.dangbeimarket",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_dangbei.png",
     "name": "当贝市场",
 	"unitType": "TV",
-    "apkSize": "11.4M",
+    "apkSize": "9.1M",
     "desc": "TV端应用市场",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0718/dangbeimarket_4.4.2_294_yunji.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/dangbeimarket_5.0.4_307_znds.apk",
 	"clipboard":""
   },
   {
