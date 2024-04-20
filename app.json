@@ -13,14 +13,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "1.0.240415",
+    "versionName": "1.0.240420",
     "packageName": "com.github.tvbox.osc.tk.l",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox_tk.png",
     "name": "睇TV",
 	"unitType": "TV",
     "apkSize": "28M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用，改自TvBoxTK\n更新内容：支持云查 [原画] 播放，m3u格式直播源",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/TVBox_tk_mod_hoheiya_1.0.240415.apk",
+    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用，改自TvBoxTK\n更新内容：新增主/备配置及一键切换",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/TVBox_tk_mod_hoheiya_1.0.240420.apk",
 	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
@@ -97,14 +97,14 @@
   },
    {
     "versionCode": 2,
-    "versionName": "1.0.5.20240415",
+    "versionName": "1.0.5.20240420",
     "packageName": "com.github.tvbox.osc.p",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox.png",
     "name": "MBox",
 	"unitType": "PHONE",
     "apkSize": "41M",
-    "desc": "Mobile TvBox，竖屏版TVBOX，自修改版本\n更新内容：支持m3u直播源",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/MBox_mod_hoheiya_v1.0.5.20240415.apk",
+    "desc": "Mobile TvBox，竖屏版TVBOX，自修改版本\n更新内容：新增主/备配置及一键切换",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/MBox_mod_hoheiya_v1.0.5.240420.apk",
 	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
