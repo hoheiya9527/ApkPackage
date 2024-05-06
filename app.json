@@ -132,15 +132,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 113512482,
-    "versionName": "8.9.34.590",
+    "versionCode": 113774808,
+    "versionName": "8.9.36.616",
     "packageName": "com.spotify.music",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
     "apkSize": "77M",
     "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/Spotify.v8.9.34.590.Premium.apk",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/Spotify.v8.9.36.616.Premium.apk",
 	"clipboard":""
   },
   {
