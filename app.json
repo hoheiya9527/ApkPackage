@@ -13,14 +13,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "1.0.240420",
+    "versionName": "1.0.240609",
     "packageName": "com.github.tvbox.osc.tk.l",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox_tk.png",
     "name": "睇TV",
 	"unitType": "TV",
     "apkSize": "28M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用，改自TvBoxTK\n更新内容：新增主/备配置及一键切换",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/TVBox_tk_mod_hoheiya_1.0.240420.apk",
+    "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：去除推广信息",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/TVBox_tk_mod_hoheiya_1.0.240609.apk",
 	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
