@@ -13,14 +13,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "1.0.240609",
+    "versionName": "1.0.240625",
     "packageName": "com.github.tvbox.osc.tk.l",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox_tk.png",
     "name": "睇TV",
 	"unitType": "TV",
     "apkSize": "28M",
-    "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：去除推广信息",
-    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202406/TVBox_tk_mod_hoheiya_1.0.240609.apk",
+    "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：切换配置后立即返回主页并生效",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202406/TVBox_tk_mod_hoheiya_1.0.240625.apk",
 	"clipboard":"https://hub.gitmirror.com/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
@@ -166,6 +166,18 @@
     "desc": "新浪微博第三方客户端，简约。\n[终版]",
     "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Share.apk",
 	"clipboard":""
+  },
+   {
+    "versionCode": 58,
+    "versionName": "3.3.6",
+    "packageName": "com.guoshi.httpcanary.premium",
+    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_httpcanary.png",
+    "name": "HttpCanary",
+    "unitType": "PHONE",
+    "apkSize": "5.43M",
+    "desc": "抓包工具，可用于完成Share微博三方应用的高级版激活\n相关激活教程说明可长按此处进行复制链接并粘贴至浏览器访问查看",
+    "downloadUrl": "https://hub.gitmirror.com/https://github.com/hoheiya9527/ApkPackage/releases/download/202406/HttpCanary_3.3.6.apk",
+	"clipboard":"https://www.123pan.com/s/ZZb5Vv-HaXL3.html"
   },
   {
     "versionCode": 1581,
