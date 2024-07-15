@@ -132,15 +132,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 115347385,
-    "versionName": "8.9.48.575",
+    "versionCode": 116396262,
+    "versionName": "8.9.56.618",
     "packageName": "com.spotify.music",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
     "apkSize": "77M",
     "desc": "Spotify手机客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://gh.con.sh/https://github.com/hoheiya9527/ApkPackage/releases/download/202406/Spotify.v8.9.48.575.Premium.apk",
+    "downloadUrl": "https://gh.con.sh/https://github.com/hoheiya9527/ApkPackage/releases/download/202407/Spotify.v8.9.56.618.Premium.apk",
 	"clipboard":""
   },
   {
@@ -190,6 +190,18 @@
     "desc": "Fake Location",
     "downloadUrl": "https://gh.con.sh/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Fake_Location.apk",
 	"clipboard":""
+  },
+  {
+    "versionCode": 35,
+    "versionName": "1.8.0-beta.7",
+    "packageName": "li.songe.gkd",
+    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_gkd.png",
+    "name": "GKD",
+    "unitType": "PHONE",
+    "apkSize": "5.36M",
+    "desc": "辅助工具，GKD(搞快点)跳过APP的广告，可用于替代李跳跳。\n使用时需添加规则订阅，长按此项可复制使用订阅链接",
+    "downloadUrl": "https://gh.con.sh/https://github.com/hoheiya9527/ApkPackage/releases/download/202407/gkd-v1.8.0-beta7.apk",
+	"clipboard":"https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5"
   },
   {
     "versionCode": 3,
