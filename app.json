@@ -13,14 +13,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "1.0.240625",
+    "versionName": "1.0.240818",
     "packageName": "com.github.tvbox.osc.tk.l",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox_tk.png",
     "name": "睇TV",
 	"unitType": "TV",
     "apkSize": "28M",
-    "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：切换配置后立即返回主页并生效",
-    "downloadUrl": "https://gh.con.sh/https://github.com/hoheiya9527/ApkPackage/releases/download/202406/TVBox_tk_mod_hoheiya_1.0.240625.apk",
+    "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：去广告",
+    "downloadUrl": "https://gh.con.sh/https://github.com/hoheiya9527/ApkPackage/releases/download/202408/TVBox_tk_mod_hoheiya_1.0.240818.apk",
 	"clipboard":"https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
@@ -97,14 +97,14 @@
   },
    {
     "versionCode": 2,
-    "versionName": "1.0.5.240609",
+    "versionName": "1.0.6.240818",
     "packageName": "com.github.tvbox.osc.p",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox.png",
     "name": "MBox",
 	"unitType": "PHONE",
     "apkSize": "41M",
-    "desc": "Mobile TvBox，竖屏版TVBOX，自修改版本\n更新内容：去除推广信息",
-    "downloadUrl": "https://gh.con.sh/https://github.com/hoheiya9527/ApkPackage/releases/download/202406/MBox_mod_hoheiya_v1.0.5.240609.apk",
+    "desc": "Mobile TvBox，竖屏版TVBOX，自修改版本\n更新内容：去广告",
+    "downloadUrl": "https://gh.con.sh/https://github.com/hoheiya9527/ApkPackage/releases/download/202408/MBox_mod_hoheiya_v1.0.6.240818.apk",
 	"clipboard":"https://gh.con.sh/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
