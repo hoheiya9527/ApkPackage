@@ -13,14 +13,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "1.0.241130",
+    "versionName": "1.0.241230",
     "packageName": "com.github.tvbox.osc.tk.l",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox_tk.png",
     "name": "睇TV",
 	"unitType": "TV",
     "apkSize": "28M",
-    "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：优化去广告",
-    "downloadUrl": "https://ghpr.cc/https://github.com/hoheiya9527/ApkPackage/releases/download/202408/TVBox_tk_mod_hoheiya_1.0.241130.apk",
+    "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：更新配置后自动重启应用",
+    "downloadUrl": "https://ghpr.cc/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/TVBox_tk_mod_hoheiya_1.0.241230.apk",
 	"clipboard":"https://ghpr.cc/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
@@ -67,7 +67,7 @@
     "name": "小白云盘TV",
 	"unitType": "TV",
     "apkSize": "52M",
-    "desc": "TV端阿里云盘第三方客户端，支持原画播放",
+    "desc": "TV端阿里云盘第三方客户端",
     "downloadUrl": "https://ghpr.cc/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/XiaoBaiYun_TV-v1.7.1.apk",
 	"clipboard":""
   },
@@ -97,14 +97,14 @@
   },
    {
     "versionCode": 2,
-    "versionName": "1.0.6.241031",
+    "versionName": "1.0.6.241230",
     "packageName": "com.github.tvbox.osc.p",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox.png",
     "name": "MBox",
 	"unitType": "PHONE",
     "apkSize": "41M",
-    "desc": "Mobile TvBox，竖屏版TVBOX，自修改版本\n更新内容：优化去广告",
-    "downloadUrl": "https://ghpr.cc/https://github.com/hoheiya9527/ApkPackage/releases/download/202408/MBox_mod_hoheiya_v1.0.6.241031.apk",
+    "desc": "Mobile TvBox，竖屏版TVBOX，自修改版本\n更新内容：更新配置后自动重启应用",
+    "downloadUrl": "https://ghpr.cc/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/MBox_mod_hoheiya_v1.0.6.241230.apk",
 	"clipboard":"https://ghpr.cc/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
