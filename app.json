@@ -36,15 +36,15 @@
 	"clipboard":"https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
-    "versionCode": 122,
-    "versionName": "1.4.9",
+    "versionCode": 126,
+    "versionName": "1.5.2",
     "packageName": "com.xx.blbl",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_bbll.png",
     "name": "BBLL",
 	"unitType": "TV",
-    "apkSize": "6.9M",
+    "apkSize": "6.6M",
     "desc": "TV端哔哩哔哩第三方客户端",
-    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202401/BLBL_release_v1.4.9.apk",
+    "downloadUrl": "https://github.tbedu.top/https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk",
 	"clipboard":""
   },
   {
@@ -57,18 +57,6 @@
     "apkSize": "9.11M",
     "desc": "TV端Spotify音乐APP(xapk格式)，可配合手机端使用获取更优体验",
     "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_TV_1.85.3.xapk",
-	"clipboard":""
-  },
-  {
-    "versionCode": 51,
-    "versionName": "v1.7.1",
-    "packageName": "com.amazing.cloudisk.tv",
-    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_xiaobai.png",
-    "name": "小白云盘TV",
-	"unitType": "TV",
-    "apkSize": "52M",
-    "desc": "TV端阿里云盘第三方客户端",
-    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/XiaoBaiYun_TV-v1.7.1.apk",
 	"clipboard":""
   },
   {
