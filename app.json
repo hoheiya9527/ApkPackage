@@ -24,18 +24,6 @@
 	"clipboard":"https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
   },
   {
-    "versionCode": 1,
-    "versionName": "1.0.7.20240416",
-    "packageName": "com.github.tvbox.osc",
-    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox.png",
-    "name": "TvBox",
-	"unitType": "TV",
-    "apkSize": "18.5M",
-    "desc": "TV端影视点播及电视直播软件，需配合订阅源配置后使用\n[已停更，建议使用 睇TV]",
-    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202404/TVBox_q215613905_mod_hoheiya_1.0.7.20240416.apk",
-	"clipboard":"https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
-  },
-  {
     "versionCode": 126,
     "versionName": "1.5.2",
     "packageName": "com.xx.blbl",
@@ -120,15 +108,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 122424461,
-    "versionName": "9.0.2.459",
+    "versionCode": 999999999,
+    "versionName": "9.0.26.468",
     "packageName": "com.spotify.music",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
     "apkSize": "77M",
     "desc": "Spotify音乐平台Android客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_v9.0.2.459(Premium).apk",
+    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_v9.0.26.468.apk",
 	"clipboard":""
   },
   {
