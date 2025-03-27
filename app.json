@@ -21,7 +21,7 @@
     "apkSize": "28M",
     "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：新增支持本地IPTV，优化直播M3U解析",
     "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/TVBox_tk_mod_hoheiya_1.0.250127.apk",
-	"clipboard":"https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
+	"clipboard":""	
   },
   {
     "versionCode": 126,
@@ -36,15 +36,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 1850300,
-    "versionName": "1.85.3",
+    "versionCode": 1910800,
+    "versionName": "1.91.8",
     "packageName": "com.spotify.tv.android",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_spotify_tv.png",
     "name": "Spotify for TV",
 	"unitType": "TV",
     "apkSize": "9.11M",
     "desc": "TV端Spotify音乐APP(xapk格式)，可配合手机端使用获取更优体验",
-    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_TV_1.85.3.xapk",
+    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/SpotifyTV_1.91.8.xapk",
 	"clipboard":""
   },
   {
@@ -81,7 +81,7 @@
     "apkSize": "41M",
     "desc": "Mobile TvBox，竖屏版TVBOX，自修改版本\n更新内容：投屏支持网盘4K视频",
     "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/MBox_mod_hoheiya_v1.0.7.250212.apk",
-	"clipboard":"https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"	
+	"clipboard":""	
   },
   {
     "versionCode": 20231028,
@@ -93,7 +93,7 @@
     "apkSize": "43.1M",
     "desc": "竖屏版TVBOX，支持影视点播及电视直播，需配合订阅源配置后使用\n[已停更，建议使用 MBox]",
     "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202310/EasyBox_231028_130_sign.apk",
-	"clipboard":"https://github.tbedu.top/https://raw.githubusercontent.com/hoheiya9527/TvboxSelf/main/src.json"
+	"clipboard":""
   },
   {
     "versionCode": 94,
@@ -108,15 +108,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 999999999,
-    "versionName": "9.0.26.468",
+    "versionCode": 2147483647,
+    "versionName": "9.0.30.631",
     "packageName": "com.spotify.music",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
     "apkSize": "77M",
-    "desc": "Spotify音乐平台Android客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_v9.0.26.468.apk",
+    "desc": "Spotify音乐平台客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
+    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_9.0.30.631_By_ReVanced.apk",
 	"clipboard":""
   },
   {
@@ -168,15 +168,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 42,
-    "versionName": "1.8.0",
+    "versionCode": 52,
+    "versionName": "1.9.3",
     "packageName": "li.songe.gkd",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_gkd.png",
     "name": "GKD",
     "unitType": "PHONE",
     "apkSize": "5.36M",
-    "desc": "辅助工具，GKD(搞快点)跳过APP的广告，可用于替代李跳跳。\n使用时需添加规则订阅，长按此项可复制使用订阅链接",
-    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202408/gkd-v1.8.0.apk",
+    "desc": "辅助工具，GKD(搞快点)跳过APP的广告，可用于替代李跳跳。\n使用时需添加规则订阅，长按此项可复制使用订阅链接(目前版本仍耗电较高)",
+    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202408/gkd-v1.9.3.apk",
 	"clipboard":"https://registry.npmmirror.com/@aisouler/gkd_subscription/latest/files/dist/AIsouler_gkd.json5"
   },
   {
