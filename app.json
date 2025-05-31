@@ -13,14 +13,14 @@
   },
   {
     "versionCode": 1,
-    "versionName": "1.0.250127",
+    "versionName": "1.0.250601",
     "packageName": "com.github.tvbox.osc.tk.l",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox_tk.png",
     "name": "睇TV",
 	"unitType": "TV",
     "apkSize": "28M",
-    "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：新增支持本地IPTV，优化直播M3U解析",
-    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/TVBox_tk_mod_hoheiya_1.0.250127.apk",
+    "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：修正频道名称解析",
+    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/TVBox_tk_mod_hoheiya_1.0.250601.apk",
 	"clipboard":""	
   },
   {
