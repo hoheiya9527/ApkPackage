@@ -108,15 +108,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 2147483647,
-    "versionName": "9.0.30.631",
+    "versionCode": 1998040114,
+    "versionName": "8.9.84.594",
     "packageName": "com.spotify.music",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
     "apkSize": "77M",
     "desc": "Spotify音乐平台客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_9.0.30.631_By_ReVanced.apk",
+    "downloadUrl": "https://github.tbedu.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_v8.9.84.594.apk",
 	"clipboard":""
   },
   {
