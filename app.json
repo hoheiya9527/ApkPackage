@@ -96,15 +96,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 94,
-    "versionName": "3.6.8",
-    "packageName": "com.feiyu.morin",
-    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_morin.png",
-    "name": "魔音",
+    "versionCode": 10,
+    "versionName": "1.0.9",
+    "packageName": "com.qingmusic.changqing",
+    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_qingmusic.png",
+    "name": "青听音乐",
     "unitType": "PHONE",
-    "apkSize": "27.4M",
-    "desc": "国内在线音乐平台聚合APP，集搜索、试听、下载功能",
-    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/202408/MORIN_V3.6.8.apk",
+    "apkSize": "25.4M",
+    "desc": "国内在线音乐平台聚合APP，集搜索、试听、下载功能\n长按复制音源链接以导入APP使用",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/QingMusic_v1.0.9-arm64-v8a.apk",
 	"clipboard":""
   },
   {
