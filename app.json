@@ -13,26 +13,26 @@
   },
   {
     "versionCode": 1,
-    "versionName": "1.0.250702",
+    "versionName": "1.0.250815",
     "packageName": "com.github.tvbox.osc.tk.l",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_tvbox_tk.png",
     "name": "睇TV",
 	"unitType": "TV",
-    "apkSize": "28M",
+    "apkSize": "25M",
     "desc": "TV端影视点播及电视直播软件，改自TvBoxTK\n更新内容：提升稳定性",
-    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/TVBox_tk_mod_hoheiya_1.0.250702.apk",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/TVBox_tk_mod_hoheiya_1.0.250815.apk",
 	"clipboard":""	
   },
   {
     "versionCode": 126,
     "versionName": "1.5.2",
-    "packageName": "com.xx.blbl",
+    "packageName": "com.V2.blb5",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_bbll.png",
     "name": "BBLL",
 	"unitType": "TV",
     "apkSize": "6.6M",
     "desc": "TV端哔哩哔哩第三方客户端",
-    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/xiaye13579/BBLL/releases/download/v1.5.2/BBLL1.5.2.apk",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/BBLL5.2.apk",
 	"clipboard":""
   },
   {
