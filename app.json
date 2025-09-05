@@ -120,6 +120,18 @@
 	"clipboard":""
   },
   {
+    "versionCode": 211016,
+    "versionName": "2.11.16.Alpha",
+    "packageName": "com.github.metacubex.clash.alpha",
+    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_clash_meta.png",
+    "name": "Clash Meta for Android",
+    "unitType": "PHONE",
+    "apkSize": "24.3M",
+    "desc": "代理工具，支持更新的协议如hysteria2，需配置订阅源使用",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/cmfa-2.11.16-alpha-arm64-v8a-release.apk",
+	"clipboard":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml"
+  },
+  {
     "versionCode": 205012,
     "versionName": "2.5.12.premium",
     "packageName": "com.github.kr328.clash",
@@ -127,7 +139,7 @@
     "name": "Clash for Android",
     "unitType": "PHONE",
     "apkSize": "10.2M",
-    "desc": "代理工具，需配置订阅源使用",
+    "desc": "代理工具，需配置订阅源使用[终版]",
     "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/cfa-2.5.12-premium-arm64-v8a-release.apk",
 	"clipboard":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/hoheiya9527/clashSelf/main/clash_self.json"
   },
