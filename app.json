@@ -108,15 +108,15 @@
 	"clipboard":"https://13413.kstore.space/QingMusic/music.json"
   },
   {
-    "versionCode": 1998040114,
-    "versionName": "8.9.84.594",
+    "versionCode": 129765452,
+    "versionName": "9.0.58.596",
     "packageName": "com.spotify.music",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
-    "apkSize": "77M",
+    "apkSize": "109M",
     "desc": "Spotify音乐平台客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_v8.9.84.594.apk",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_V9.0.58.596_AprelMod.apk",
 	"clipboard":""
   },
   {
@@ -129,7 +129,7 @@
     "apkSize": "24.3M",
     "desc": "代理工具，支持更新的协议如hysteria2，需配置订阅源使用",
     "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/cmfa-2.11.16-alpha-arm64-v8a-release.apk",
-	"clipboard":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/chengaopan/AutoMergePublicNodes/master/list.meta.yml"
+	"clipboard":"https://github.tbedu.top/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml"
   },
   {
     "versionCode": 205012,
