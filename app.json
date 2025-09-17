@@ -73,14 +73,14 @@
   },
    {
     "versionCode": 2,
-    "versionName": "1.0.7.250917",
+    "versionName": "1.0.7.250918",
     "packageName": "com.github.tvbox.osc.p",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_mbox.png",
     "name": "MBox",
 	"unitType": "PHONE",
     "apkSize": "41M",
     "desc": "Mobile TvBox，竖屏版TVBOX，自修改版本\n更新内容：支持直播请求头，提升DLNA投屏稳定性",
-    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/MBox_mod_hoheiya_v1.0.7.250917.apk",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/MBox_mod_hoheiya_v1.0.7.250918.apk",
 	"clipboard":""	
   },
   {
