@@ -122,7 +122,7 @@
   {
     "versionCode": 211020,
     "versionName": "2.11.20.Meta",
-    "packageName": "com.github.metacubex.clash.alpha",
+    "packageName": "com.github.metacubex.clash.meta",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_clash_meta.png",
     "name": "Clash Meta for Android",
     "unitType": "PHONE",
