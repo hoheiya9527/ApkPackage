@@ -96,15 +96,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 10,
-    "versionName": "1.0.9",
+    "versionCode": 14,
+    "versionName": "1.2.2",
     "packageName": "com.qingmusic.changqing",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_qingmusic.png",
     "name": "青听音乐",
     "unitType": "PHONE",
-    "apkSize": "25.4M",
+    "apkSize": "26.2M",
     "desc": "国内在线音乐平台聚合APP，集搜索、试听、下载功能\n长按复制音源链接以导入APP使用",
-    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/QingMusic_v1.0.9-arm64-v8a.apk",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/qingmusic_1.2.2.apk",
 	"clipboard":"https://13413.kstore.space/QingMusic/music.json"
   },
   {
@@ -120,16 +120,16 @@
 	"clipboard":""
   },
   {
-    "versionCode": 211016,
-    "versionName": "2.11.16.Alpha",
+    "versionCode": 211020,
+    "versionName": "2.11.20.Meta",
     "packageName": "com.github.metacubex.clash.alpha",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_clash_meta.png",
     "name": "Clash Meta for Android",
     "unitType": "PHONE",
     "apkSize": "24.3M",
     "desc": "代理工具，支持更新的协议如hysteria2，需配置订阅源使用",
-    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/cmfa-2.11.16-alpha-arm64-v8a-release.apk",
-	"clipboard":"https://github.tbedu.top/https://raw.githubusercontent.com/peasoft/NoMoreWalls/master/list.meta.yml"
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/cmfa-2.11.20-meta-arm64-v8a-release.apk",
+	"clipboard":"https://ghfile.geekertao.top/https://raw.githubusercontent.com/shuaidaoya/FreeNodes/main/nodes/all.yaml"
   },
   {
     "versionCode": 205012,
