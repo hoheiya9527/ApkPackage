@@ -36,15 +36,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 1910800,
-    "versionName": "1.91.8",
+    "versionCode": 2180100,
+    "versionName": "1.118.1",
     "packageName": "com.spotify.tv.android",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_spotify_tv.png",
     "name": "Spotify for TV",
 	"unitType": "TV",
     "apkSize": "9.11M",
     "desc": "TV端Spotify音乐APP(xapk格式)，可配合手机端使用获取更优体验",
-    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/SpotifyTV_1.91.8.xapk",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2026/Spotify_1.118.1.xapk",
 	"clipboard":""
   },
   {
@@ -225,6 +225,18 @@
     "apkSize": "22.3M",
     "desc": "网络测速软件",
     "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Speedtest.apk",
+	"clipboard":""
+  },
+  {
+    "versionCode": 60,
+    "versionName": "4.5",
+    "packageName": "com.aefyr.sai",
+    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_sai.png",
+    "name": "SAI",
+    "unitType": "PHONE",
+    "apkSize": "29.5M",
+    "desc": "Split APKs Installer，手机APK安装或备份（提取任意APK，或Split Apks导出重命名xapk）",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2026/SAI-4.5.apk",
 	"clipboard":""
   },
   {
