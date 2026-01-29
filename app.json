@@ -108,16 +108,16 @@
 	"clipboard":"https://13413.kstore.space/QingMusic/music.json"
   },
   {
-    "versionCode": 129765452,
-    "versionName": "9.0.58.596",
+    "versionCode": 137373606,
+    "versionName": "9.1.16.1450",
     "packageName": "com.spotify.music",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_spotify_phone.png",
     "name": "Spotify",
     "unitType": "PHONE",
-    "apkSize": "109M",
-    "desc": "Spotify音乐平台客户端，修改版本，免会员，需配合代理使用账号注册地区登录生效",
-    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/Spotify_V9.0.58.596_AprelMod.apk",
-	"clipboard":""
+    "apkSize": "96M",
+    "desc": "Spotify音乐平台移动端客户端，官方原版，结合'团团分身'+'ReVanced Xposed Spotify'可破，详情长按复制访问查看",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2026/Spotify_9.1.20.277.xapk",
+	"clipboard":"https://www.123pan.com/s/ZZb5Vv-tsOL3"
   },
   {
     "versionCode": 211020,
@@ -216,7 +216,7 @@
 	"clipboard":""
   },
   {
-    "versionCode": 82948,
+    "versionCode": 251227,
     "versionName": "4.4.30",
     "packageName": "org.zwanoo.android.speedtest",
     "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_speedtest.png",
@@ -226,5 +226,30 @@
     "desc": "网络测速软件",
     "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/0719/Speedtest.apk",
 	"clipboard":""
+  },
+  {
+    "versionCode": 2512231,
+    "versionName": "2.6.9",
+    "packageName": "com.jy.x.separation.manager",
+    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_ttfs.png",
+    "name": "团团分身",
+    "unitType": "PHONE",
+    "apkSize": "29.5M",
+    "desc": "叠加下方Revanced_Xposed_Spotify可破原版Spotify",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2026/MochiCloner_v2.6.9.apk",
+	"clipboard":""
+  },
+  {
+    "versionCode": 33,
+    "versionName": "251227",
+    "packageName": "ukas.hmo.uf",
+    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_xpose.png",
+    "name": "ReVanced Xposed Spotify",
+    "unitType": "PHONE",
+    "apkSize": "1.2M",
+    "desc": "叠加上方团团分身可破原版Spotify",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2026/ReVanced_Xposed_Spotify_v251227.apk",
+	"clipboard":"https://www.123pan.com/s/ZZb5Vv-tsOL3"
   }
+
 ]
