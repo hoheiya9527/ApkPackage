@@ -31,8 +31,20 @@
     "name": "BBLL",
 	"unitType": "TV",
     "apkSize": "6.6M",
-    "desc": "TV端哔哩哔哩第三方客户端",
+    "desc": "TV端哔哩哔哩第三方客户端BBLL",
     "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2025/BBLL5.2.apk",
+	"clipboard":""
+  },
+  {
+    "versionCode": 30,
+    "versionName": "1.28",
+    "packageName": "com.bbttvv.app",
+    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_bbtv.png",
+    "name": "BBTTVV",
+	"unitType": "TV",
+    "apkSize": "6.2M",
+    "desc": "TV端哔哩哔哩第三方客户端BBTV",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2026/BBTTVV-1.28-arm64-v8a.apk",
 	"clipboard":""
   },
   {
