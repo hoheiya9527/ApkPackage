@@ -36,15 +36,15 @@
 	"clipboard":""
   },
   {
-    "versionCode": 30,
-    "versionName": "1.28",
-    "packageName": "com.bbttvv.app",
-    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_bbtv.png",
-    "name": "BBTTVV",
+    "versionCode": 261007,
+    "versionName": "0.2.261007",
+    "packageName": "com.hoheiya.newbv",
+    "icon": "https://cdn.jsdelivr.net/gh/hoheiya9527/ApkPackage@main/icon/icon_new_bv.png",
+    "name": "new BV",
 	"unitType": "TV",
-    "apkSize": "6.2M",
-    "desc": "TV端哔哩哔哩第三方客户端BBTV",
-    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2026/BBTTVV-1.28-arm64-v8a.apk",
+    "apkSize": "36.3M",
+    "desc": "TV端哔哩哔哩第三方客户端New BV定制版本",
+    "downloadUrl": "https://ghfile.geekertao.top/https://github.com/hoheiya9527/ApkPackage/releases/download/2026/newBV_0.2.261007_release.apk",
 	"clipboard":""
   },
   {
